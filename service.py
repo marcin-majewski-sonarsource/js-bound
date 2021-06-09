@@ -1,4 +1,5 @@
 print 'test'
+print 'test2'
 # Copyright (c) Twisted Matrix Laboratories.
 # See LICENSE for details.
 
